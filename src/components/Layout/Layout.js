@@ -1,7 +1,7 @@
 import React from 'react'
 import css from './Layout.module.scss'
 import MenuToggle from '../Navigation/MenuToggle/MenuToggle'
-import Sidebar from '../Navigation/MenuToggle/Sidebar/Sidebar'
+import Sidebar from '../Navigation/Sidebar/Sidebar'
 
 class Layout extends React.Component {
 
