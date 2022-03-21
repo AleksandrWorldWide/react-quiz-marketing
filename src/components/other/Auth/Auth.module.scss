@@ -1,0 +1,17 @@
+
+.Auth {
+	margin: 0 auto;
+	margin-top: 300px;
+	border: 2px solid #000;
+	border-radius: 5px;
+	box-shadow: 3px 3px 3px 0 #006262;
+	padding: 15px;
+	background: linear-gradient(45deg, #FFBF00, #FF8B00);
+	h2 {
+		text-align: center;
+	}
+	&Form {
+		width: 600px;
+
+	}
+}
